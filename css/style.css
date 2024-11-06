@@ -166,7 +166,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(0 157 222);
+    background-color: cadetblue;
 }
 
 .bg-azul-c {
@@ -336,18 +336,18 @@ list-style-type: circle;
 }
 
 .formlogin {
-    width: 30%;
+    width: 40%;
     float: left;
 }
 .formregister {
-    width: 40%;
+    width: 50%;
     float: right;
    
 }
 .formhtml5 {
     width: 30%;
     margin: 0 auto;
-    background-color: aqua;  
+    background-color:rgb(226, 250, 250);  
 }
 .cb {
     clear: both;
@@ -366,10 +366,25 @@ list-style-type: circle;
     border: 0;
     padding: 4px 16px;
     border-radius: 8px;
-    font-size: 20px;
+    font-size: 15px;
+    background-color: violet;
+}
+.btn2 {
+    border: 0;
+    padding: 4px 16px;
+    border-radius: 8px;
+    font-size: 15px;
+    background-color: violet;
+}
+.btn3 {
+    border: 0;
+    padding: 4px 16px;
+    border-radius: 8px;
+    font-size: 15px;
+    background-color: violet;
 }
 .col3 {
-    width: 33,3%;
+    width: 33%;
     float: left;
 }
 .col3 img {
