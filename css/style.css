@@ -1,10 +1,11 @@
 body {
     margin: 0;
+    background-color: #717272;
 }
 
 * {
     box-sizing: border-box;
-    color: rgb(18, 0, 110);
+    color: rgb(219, 217, 217);
 }
 
 /* For desktop: */
@@ -134,7 +135,7 @@ nav li {
 }
 
 nav li a {
-    color: rgb(18, 0, 110);
+    color: rgb(219, 217, 217);
 }
 
 nav li:hover {
@@ -401,4 +402,9 @@ audio {
 }
 .text-center {
     text-align: center;
+}
+.portada {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
 }
