@@ -140,6 +140,11 @@ nav li a {
 
 nav li:hover {
     background-color: rgb(225, 245, 253);
+    
+}
+nav li:hover a {
+    background-color: rgb(225, 245, 253);
+    color: black;
 }
 
 .text-right {
