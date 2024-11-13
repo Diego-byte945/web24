@@ -270,7 +270,7 @@ list-style-type: circle;
 }
 #listas .customdef dt {
     font-size: 25px;
-    background-color: aqua;
+    background-color:blueviolet;
 }
 .fondos th{
     background-color: #17aedc;
@@ -284,11 +284,15 @@ list-style-type: circle;
 .horario {
     width: 80%;
     margin: 0 auto;
+    border-color: rgb(18, 121, 123);
 }
 
 .horario th {
     background-color:rgb(240, 240, 240);
      color: rgb(18, 121, 123);
+}
+.horario2 {
+    color:rgb(18, 121, 123) ;
 }
 .BDD {
     background-color:rgb(129, 255, 129) ;
